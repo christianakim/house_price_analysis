@@ -7,3 +7,8 @@ Project Deliverables:
 1. An Excel workbook containing house price data and my statistical analysis.
 2. A PowerPoint deck where I share my findings from my research.
 3. A live presentation where I deliver my findings and recommendations with the investment team.
+
+Demonstrated Tools & Techniques: 
+- Excel - Data Analysis ToolPak descriptive statistics and t-tests
+- Tableau
+- PowerPoint
