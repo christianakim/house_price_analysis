@@ -1,4 +1,4 @@
-# house_price_analysis
+# House Price Analysis
 This is my second capstone project for Thinkful.
 
 Scenario: I'm working as an analyst at an investment bank. The team that I am working with wants to understand how it should allocate dollars earmarked for investment into mortgage-backed securities. They've asked me to look into factors that drive home prices.
